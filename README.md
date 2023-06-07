@@ -19,11 +19,11 @@ The front view of my stator design, the core of the engine. The 6-tooth gear is 
 The back view of my stator design. The screw holes for the back plate are visible. The apparent gear at the back of the back plate is not actually a gear but is my conception of a part that permits the engine to be mounted to a test rig. However, it occurs to me now that unless it is welded to the rig, it is not a satisfactory mounting point. Oh well.
 
 
-![The front view of my housing design with the intake port visible.](/Pictures/Housing%20Assembly%20intake%20side_ver3)
+![The front view of my housing design with the intake port visible.](/Pictures/Housing%20Assembly%20intake%20side_ver3.PNG)
 
 The front view of my housing design. As you can see, the housing closes over the stator with an intake port on the front plate and an exhaust port on the back plate.
 
 
-![The back view of my housing design with the exhaust port visible.](/Pictures/Housing%20Assembly%20exhaust%20side_ver3)
+![The back view of my housing design with the exhaust port visible.](/Pictures/Housing%20Assembly%20exhaust%20side_ver3.PNG)
 
 The back view of my housing design. Visible here is the 4-tooth gear fixed to the front plate (20 teeth would likely have been preferable to go along with a 30-tooth gear replacing the 6-tooth gear on the stator) that attaches to the eccentric shaft and interfaces with the 6-tooth gear on the stator.
