@@ -46,3 +46,36 @@ The front view of the full assembly. Still missing in the design are some slots 
 ![The back view of the full assembly.](/Pictures/Engine%20exhaust%20side_ver3.PNG)
 
 The back view of the full assembly.
+
+Originally, I wanted to have the intake and exhaust ports both be present on the front side of the engine so the rear could be open for all of the connections for fuel, oil, and electricity. But I couldn't figure out how to have both the intake and exhaust arms at the front of the engine without them intersecting eachother. Eventually, I solved this problem.
+
+The stator design remained virtually the same, but the rest of the design changed.
+
+![The front view of housing design v2.0.2 with the intake and exhaust ports visible.](/Pictures/v2_0_2_Housing%20Assembly%20front%20side.PNG)
+
+The front view of housing design v2.0.2 with the main difference being the movement of the exhaust port from the back plate to the front plate. Don't ask what versions 2.0.0 and 2.0.1 were, I don't remember and I don't seem to have the files anymore. Oops. But they must have been only slightly different.
+
+
+![The back view of housing design v2.0.2.](/Pictures/v2_0_2_Housing%20Assembly%20back%20side.PNG)
+
+The back view of housing design v2.0.2, looking largely the same as the old housing design.
+
+
+![The front view of the concentric shaft design.](/Pictures/Concentric_Shaft_Front.PNG)
+
+This part (front view shown) is the key to design v2. I call it the concentric shaft. The intake air flows in through the central channel while the exhaust flows out through the outer channel. The intermediary channel is there to insulate the intake air from the exhaust and cold air can be pushed through the intermediary channel easilym, as it is open at both ends, shown in the following picture.
+
+
+![The back view of the concentric shaft design.](/Pictures/Concentric_Shaft_Back.PNG)
+
+The back view shows the second opening of the intermediary channel clearly. The holey sections of the shaft allow continuous flow between the concentric shaft and the intake and exhaust arms visible in the next picture. Note: The three holes at the back end of the shaft are screw holes to attach to the eccentic shaft protruding from the front plate of the housing. They should not permit flow of air.
+
+
+![The front view of intake and exhaust assmebly v2.0.2.](/Pictures/v2_0_2_Intake%20and%20exhaust%20assembly%20front.PNG)
+
+The front view of intake and exhaust assembly v2.0.2. The exhaust intake arms are both shown, and it is apparent how they both interface with the concentric shaft.
+
+
+![The back view of intake and exhaust assmebly v2.0.2.](/Pictures/v2_0_2_Intake%20and%20exhaust%20assembly%20back.PNG)
+
+The back view of intake and exhaust assembly v2.0.2. The geometry of the exhaust and intake arms is more clear from this angle.
