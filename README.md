@@ -24,6 +24,25 @@ The back view of my stator design. The screw holes for the back plate are visibl
 The front view of my housing design. As you can see, the housing closes over the stator with an intake port on the front plate and an exhaust port on the back plate.
 
 
-![The back view of my housing design with the exhaust port visible.](/Pictures/Housing%20Assembly%20exhaust%20side_ver3.PNG)
+![The back view of my housing design with the exhaust port and 4-tooth gear visible.](/Pictures/Housing%20Assembly%20exhaust%20side_ver3.PNG)
 
 The back view of my housing design. Visible here is the 4-tooth gear fixed to the front plate (20 teeth would likely have been preferable to go along with a 30-tooth gear replacing the 6-tooth gear on the stator) that attaches to the eccentric shaft and interfaces with the 6-tooth gear on the stator.
+
+
+![The front view of my intake and exhaust assembly design with the intake arm, exhaust plate, and exhaust manifolds visible.](/Pictures/Intake%20and%20exhaust%20assembly%20front_ver3.PNG)
+
+The front view of my intake and exhaust assembly design. At the front is the intake arm that connects to the intake port. The rear has the exhaust plate (with the first attempt at slots for face seals) and the three exhaust manifolds.
+
+
+![The back view of my housing design with the exhaust port visible.](/Pictures/Intake%20and%20exhaust%20assembly%20front_ver3.PNG)
+
+The back view of my intake and exhaust assembly design. This shows how the exhaust plate interfaces with the stator assmebly, making the exhaust palte a fixed component. The exhaust manifolds attach to the exhaust plate via the screw holes.
+
+![The front view of the full assembly.](/Pictures/Engine%20intake%20side_ver3.PNG)
+
+The front view of the full assembly. Still missing in the design are some slots for seals, the seals themselves, any lubrication of the seals, spark plugs, and fuel injection. If the design were to include these things, the oil, fuel, and electricity could flow into the stator through the back of the engine.
+
+
+![The back view of the full assembly.](/Pictures/Engine%20exhaust%20side_ver3.PNG)
+
+The back view of the full assembly.
