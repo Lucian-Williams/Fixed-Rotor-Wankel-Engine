@@ -81,11 +81,11 @@ The front view of intake and exhaust assembly v2.0.2. The exhaust intake arms ar
 The back view of intake and exhaust assembly v2.0.2. The geometry of the exhaust and intake arms is more clear from this angle.
 
 
-![The front view of full assembly v2.0.2.](/Pictures/Engine%20intake%20side_ver3.PNG)
+![The front view of full assembly v2.0.2.](/Pictures/v2_0_2_intake%20side.PNG)
 
 The front view of the full assembly. Still missing the same sealing, lubrication, ignition, and injection design components as before, but the need for the exhaust plate has been completely eliminated, opening ample space for oil, fuel, and electricity to be piped into the stator through the back of the engine (the hole in the back plate of the housing would need to be widened a bit, but there's ample space for that too).
 
 
-![The back view of full assembly v2.0.2.](/Pictures/Engine%20exhaust%20side_ver3.PNG)
+![The back view of full assembly v2.0.2.](/Pictures/v2_0_2_mount%20side.PNG)
 
 The back view of the full assembly. This clearly shows the space I mentioned that could be opened up here if the hole in the back plate of the housing were to be widened, Giving direct access to the back of the stator.
